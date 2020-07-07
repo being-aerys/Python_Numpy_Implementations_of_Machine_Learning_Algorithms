@@ -37,7 +37,12 @@ Several data sets are used in this project. Following is a list that will be upd
 1.
 
 ## Work in Progress
-1. 
+1. Perceptron<br>
+    a. Vanilla Perceptron<br>
+    b. Voted Perceptron<br>
+    c. Average Perceptron<br>
+    d. Kernel Perceptron<br>
+    
 
 
 
