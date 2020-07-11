@@ -28,6 +28,7 @@ It also requires a software that can open and execute a Jupyter Notebook.
 Several data sets are used in this project. Following is a list that will be updated with time.
 
 1. Multinomial Naive Bayes -- [Spam Assasin Public Corpus](https://spamassassin.apache.org/old/publiccorpus)
+2. Vanilla Perceptron -- [Optical Character Recognition data](http://www.kaggle.com/c/digit-recognizer/data)<br>Note: This perceptron implementation uses a modified version of this data set provided for Fall 2018 Machine Learning course at Oregon State University.
 
 ## Algorithms Covered
 ### Supervised Algorithms
