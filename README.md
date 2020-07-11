@@ -32,17 +32,19 @@ Several data sets are used in this project. Following is a list that will be upd
 
 ## Algorithms Covered
 ### Supervised Algorithms
-1. Naive Bayes
+1. Naive Bayes<br>
+    a. Multinomial Naive Bayes<br>
+2. Perceptron<br>
+    a. Vanilla Perceptron<br>
 
 ### Unsupervised Algorithms
 1.
 
 ## Work in Progress
 1. Perceptron<br>
-    a. Vanilla Perceptron<br>
-    b. Voted Perceptron<br>
-    c. Average Perceptron<br>
-    d. Kernel Perceptron<br>
+    a. Average Perceptron<br>
+    b. Kernel Perceptron<br>
+    
     
 
 
