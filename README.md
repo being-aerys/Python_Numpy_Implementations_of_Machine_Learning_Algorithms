@@ -1,5 +1,5 @@
 # Machine Learning Algorithms
-This project summarizes different traditional machine learning methods
+This project summarizes different traditional machine learning methods.
 
 ## Dependencies
 This project requires python and the following python libraries.
@@ -26,22 +26,24 @@ It also requires a software that can open and execute a Jupyter Notebook.
 
 ## Data
 Several data sets are used in this project. Following is a list that will be updated with time.
-
-1. Multinomial Naive Bayes -- [Spam Assasin Public Corpus](https://spamassassin.apache.org/old/publiccorpus)
-2. Vanilla Perceptron -- [Optical Character Recognition data](http://www.kaggle.com/c/digit-recognizer/data)<br>Note: This perceptron implementation uses a modified version of this data set provided for Fall 2018 Machine Learning course at Oregon State University.
+1. Linear Regression -- [California Housing Data Set](https://www.kaggle.com/camnugent/california-housing-prices)
+2. Multinomial Naive Bayes -- [Spam Assasin Public Corpus](https://spamassassin.apache.org/old/publiccorpus)
+3. Vanilla Perceptron -- [Optical Character Recognition data](http://www.kaggle.com/c/digit-recognizer/data)<br>Note: This perceptron implementation uses a modified version of this data set provided for Fall 2018 Machine Learning course at Oregon State University.
 
 ## Algorithms Covered
 ### Supervised Algorithms
-1. Naive Bayes<br>
+1. Linear Regression
+2. Naive Bayes<br>
     a. Multinomial Naive Bayes<br>
-2. Perceptron<br>
+3. Perceptron<br>
     a. Vanilla Perceptron<br>
 
 ### Unsupervised Algorithms
 1.
 
 ## Work in Progress
-1. Perceptron<br>
+1. Linear Regression
+2. Perceptron<br>
     a. Average Perceptron<br>
     b. Kernel Perceptron<br>
     
