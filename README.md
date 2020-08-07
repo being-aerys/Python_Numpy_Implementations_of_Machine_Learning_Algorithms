@@ -1,5 +1,5 @@
 # Machine Learning Algorithms
-This project summarizes different traditional machine learning methods.
+Python implementation of different traditional machine learning methods.
 
 ## Dependencies
 This project requires python and the following python libraries.
