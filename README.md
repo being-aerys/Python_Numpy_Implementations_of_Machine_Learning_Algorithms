@@ -28,26 +28,23 @@ It also requires a software that can open and execute a Jupyter Notebook.
 Several data sets are used in this project. Following is a list that will be updated with time.
 1. Linear Regression -- [California Housing Data Set](https://www.kaggle.com/camnugent/california-housing-prices)
 2. Multinomial Naive Bayes -- [Spam Assasin Public Corpus](https://spamassassin.apache.org/old/publiccorpus)
+3. Gaussian Naive Bayes -- [Credit Card Fraud Detection Data Set](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 3. Vanilla Perceptron -- [Optical Character Recognition data](http://www.kaggle.com/c/digit-recognizer/data)<br>Note: This perceptron implementation uses a modified version of this data set provided for Fall 2018 Machine Learning course at Oregon State University.
 
-## Algorithms Covered
+## Algorithms Covered/ In Progress
 ### Supervised Algorithms
 1. Linear Regression
 2. Naive Bayes<br>
     a. Multinomial Naive Bayes<br>
+    b. Gaussian Naive Bayes
 3. Perceptron<br>
     a. Vanilla Perceptron<br>
+    b. Average Perceptron<br>
+    c. Kernel Perceptron
 
 ### Unsupervised Algorithms
 1.
 
-## Work in Progress
-1. Linear Regression
-2. Perceptron<br>
-    a. Average Perceptron<br>
-    b. Kernel Perceptron<br>
-    
-    
 
 
 
