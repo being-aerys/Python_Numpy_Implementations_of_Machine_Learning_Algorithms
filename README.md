@@ -29,7 +29,8 @@ Several data sets are used in this project. Following is a list that will be upd
 1. Linear Regression -- [California Housing Data Set](https://www.kaggle.com/camnugent/california-housing-prices)
 2. Multinomial Naive Bayes -- [Spam Assasin Public Corpus](https://spamassassin.apache.org/old/publiccorpus)
 3. Gaussian Naive Bayes -- [Credit Card Fraud Detection Data Set](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-3. Vanilla Perceptron -- [Optical Character Recognition data](http://www.kaggle.com/c/digit-recognizer/data)<br>Note: This perceptron implementation uses a modified version of this data set provided for Fall 2018 Machine Learning course at Oregon State University.
+4. Vanilla Perceptron -- [Optical Character Recognition data](http://www.kaggle.com/c/digit-recognizer/data)<br>Note: This perceptron implementation uses a modified version of this data set provided for Fall 2018 Machine Learning course at Oregon State University.
+5. SVM Natural Form -- []
 
 ## Algorithms Covered/ In Progress
 ### Supervised Algorithms
@@ -41,6 +42,8 @@ Several data sets are used in this project. Following is a list that will be upd
     a. Vanilla Perceptron<br>
     b. Average Perceptron<br>
     c. Kernel Perceptron
+4. Support Vector Machines<br>
+    a. Vanilla SVM in Natural Form with Gradient Descent Update<br>
 
 ### Unsupervised Algorithms
 1.
