@@ -1,6 +1,8 @@
 # Machine Learning Algorithms
 Python implementation of different traditional machine learning methods.
 
+<img src="https://github.com/being-aerys/Python_Numpy_Implementations_of_Machine_Learning_Algorithms/blob/master/Unsupervised_Methods/Dimension_Reduction/pca_3D.PNG" width="800" height="700">
+
 ## Dependencies
 This project requires python and the following python libraries.
 1. pandas
@@ -24,14 +26,6 @@ It also requires a software that can open and execute a Jupyter Notebook.
 6. This will open a tab on a web browser.
 7. Click on the notebook file corresponding to the machine learning method that you want to explore.
 
-## Data
-Several data sets are used in this project. Following is a list that will be updated with time.
-1. Linear Regression -- [California Housing Data Set](https://www.kaggle.com/camnugent/california-housing-prices)
-2. Multinomial Naive Bayes -- [Spam Assasin Public Corpus](https://spamassassin.apache.org/old/publiccorpus)
-3. Gaussian Naive Bayes -- [Credit Card Fraud Detection Data Set](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-4. Vanilla Perceptron -- [Optical Character Recognition data](http://www.kaggle.com/c/digit-recognizer/data)<br>Note: This perceptron implementation uses a modified version of this data set provided for Fall 2018 Machine Learning course at Oregon State University.
-5. SVM Natural Form -- []
-
 ## Algorithms Covered/ In Progress
 ### Supervised Algorithms
 1. Linear Regression
@@ -39,14 +33,14 @@ Several data sets are used in this project. Following is a list that will be upd
     a. Multinomial Naive Bayes<br>
     b. Gaussian Naive Bayes
 3. Perceptron<br>
-    a. Vanilla Perceptron<br>
-    b. Average Perceptron<br>
-    c. Kernel Perceptron
 4. Support Vector Machines<br>
-    a. Vanilla SVM in Natural Form with Gradient Descent Update<br>
+    a. Hard Margin SVM in Dual Form using QP Solver
+    b. Hard and Soft Margin SVM in Primal/ Natural form using Gradient Descent 
 
 ### Unsupervised Algorithms
-1.
+1. Dimensionality Reduction<br>
+    a. PCA<br>
+    b. LDA
 
 
 
