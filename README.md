@@ -34,7 +34,7 @@ It also requires a software that can open and execute a Jupyter Notebook.
     b. Gaussian Naive Bayes
 3. Perceptron<br>
 4. Support Vector Machines<br>
-    a. Hard Margin SVM in Dual Form using QP Solver
+    a. Hard Margin SVM in Dual Form using QP Solver<br>
     b. Hard and Soft Margin SVM in Primal/ Natural form using Gradient Descent 
 
 ### Unsupervised Algorithms
