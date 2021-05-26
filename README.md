@@ -1,7 +1,7 @@
 # Machine Learning Algorithms
-Python implementation of different traditional machine learning methods.
+This repo is my personal effort to implement several supervised and unsupervised learning algorithms using only python and numpy. While directly using ML libraries is efficient at prototyping, it skips the challenges that arise while implementing these algorithms - vectorization is one good example for this. This has inspired me to implement these algorithms and tackle these challenges first-hand. I have used some ML libraries but solely for auxiliary tasks like normalization. This is a work in progress and I will add more algorithms over time.  
 
-<img src="https://github.com/being-aerys/Python_Numpy_Implementations_of_Machine_Learning_Algorithms/blob/master/Unsupervised_Methods/Dimension_Reduction/pca_3D.PNG" width="800" height="700">
+<img src="https://github.com/being-aerys/Python_Numpy_Implementations_of_Machine_Learning_Algorithms/blob/master/Unsupervised_Methods/Dimension_Reduction/pca_3D.PNG" width="700" height="600">
 
 ## Dependencies
 This project requires python and the following python libraries.
