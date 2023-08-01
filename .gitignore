@@ -1,0 +1,12 @@
+# folders
+.idea
+.vscode
+.ipynb_checkpoints
+**Models
+**\runs
+**\data
+**\Data
+
+# files
+**.ipynb
+
