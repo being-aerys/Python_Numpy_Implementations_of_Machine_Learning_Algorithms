@@ -30,12 +30,15 @@ It also requires a software that can open and execute a Jupyter Notebook.
 
 ## Algorithms Covered/ In Progress
 ### Supervised Algorithms
-1. Linear Regression
-2. Naive Bayes<br>
+1. kNN
+    a. Vanilla kNN
+    b. Priority Queue kNN
+2. Linear Regression
+3. Naive Bayes<br>
     a. Multinomial Naive Bayes<br>
     b. Gaussian Naive Bayes
-3. Perceptron<br>
-4. Support Vector Machines<br>
+4. Perceptron<br>
+5. Support Vector Machines<br>
     a. Hard Margin SVM in Dual Form using QP Solver<br>
     b. Hard and Soft Margin SVM in Primal/ Natural form using Gradient Descent 
 
@@ -43,6 +46,8 @@ It also requires a software that can open and execute a Jupyter Notebook.
 1. Dimensionality Reduction<br>
     a. PCA<br>
     b. LDA
+<br><br>
+PS: Some helper code in the repo could have been generated using Generative AI tools like ChatGPT. Nonetheless, the algorithm implementations are implemented by the owner from scratch.
 
 
 
