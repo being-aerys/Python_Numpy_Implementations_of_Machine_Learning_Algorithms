@@ -55,12 +55,3 @@ def calculate_accuracy(actual, predicted):
     accuracy = correct_predictions / len(actual) * 100.0
 
     return accuracy
-
-
-# sample ground truth values and predicted values
-actual_values = [1, 0, 1, 1, 0, 1, 0, 1]
-predicted_values = [1, 1, 1, 0, 0, 1, 0, 1]
-
-# calculate prediction accuracy
-accuracy = calculate_accuracy(actual_values, predicted_values)
-print("Prediction Accuracy: {:.2f}%".format(accuracy))
