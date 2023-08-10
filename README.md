@@ -30,9 +30,12 @@ It also requires a software that can open and execute a Jupyter Notebook.
 
 ## Algorithms Covered/ In Progress
 ### Supervised Algorithms
-1. kNN
-    a. Vanilla kNN
-    b. Priority Queue kNN
+1. kNN<br>
+    a. Vanilla kNN<br>
+    b. Priority Queue kNN<br>
+2. KD Tree<br>
+    a. 1NN Search and Classification<br>
+    b. kNN Search and Classification<br>
 2. Linear Regression
 3. Naive Bayes<br>
     a. Multinomial Naive Bayes<br>
@@ -47,7 +50,7 @@ It also requires a software that can open and execute a Jupyter Notebook.
     a. PCA<br>
     b. LDA
 <br><br>
-PS: Some helper code in the repo could have been generated using Generative AI tools like ChatGPT. Nonetheless, the algorithm implementations are implemented by the owner from scratch.
+PS: Some helper code in the repo could have been generated using Generative AI tools like ChatGPT. Nonetheless, the algorithm implementations were implemented by the owner from scratch.
 
 
 
